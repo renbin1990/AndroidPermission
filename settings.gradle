@@ -1,2 +1,3 @@
 rootProject.name = "AndroidPermission"
 include ':app'
+include ':Library'
